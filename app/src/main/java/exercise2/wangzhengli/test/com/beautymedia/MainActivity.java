@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         initTitle();
     }
     private void initTitle() {
-        //用ActionBar替代Toolbar
+        //用ActionBar替代Toolbar12345678
         setSupportActionBar(toolbar);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle("美拍");
